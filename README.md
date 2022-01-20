@@ -1,2 +1,2 @@
 # SiteWebAvecBootstrap
-Dans ce projet j'ai créé un pseudo site web en utilisant les outils de bootstrap.
+Réalisation d'un site web (landing page) en utilisant les outils du framework Bootstrap.
